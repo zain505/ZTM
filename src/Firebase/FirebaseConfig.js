@@ -7,13 +7,13 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDggAgg6j7QyVpWVeLw3YaZSEgeEAGlQfw",
-    authDomain: "clientpanel-cf444.firebaseapp.com",
-    databaseURL: "https://clientpanel-cf444.firebaseio.com",
+    apiKey: "AIzaSyDggAgsg6j7QyVpWVeLw3YaZSEgeEAGlQfw",
+    authDomain: "clientpanel-cf444.firebsaseapp.com",
+    databaseURL: "https://clientspanel-cf444.firebasseio.com",
     projectId: "clientpanel-cf444",
     storageBucket: "clientpanel-cf444.appspot.com",
-    messagingSenderId: "741401567521",
-    appId: "1:741401567521:web:4beb8030250dabe3fd5e60"
+    messagingSenderId: "7414015867521",
+    appId: "1:74140251567521:web:4beb8030250dabe3fd5e60"
 };
 
 // Initialize Firebase
